@@ -1,0 +1,5 @@
+import BrandTable from '../BrandTable'
+
+test('print hello', () => {
+  expect(true).toBeTruthy()
+})

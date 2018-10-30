@@ -1,0 +1,20 @@
+{
+  "name": "jest-empty-coverage-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cover:jest": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "jest": "^23.6.0"
+  },
+  "dependencies": {
+    "react": "^16.6.0"
+  }
+}
